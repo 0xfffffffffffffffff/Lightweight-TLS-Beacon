@@ -1,12 +1,12 @@
 # Lightweight-TLS-Beacon
+<h1>Grotesque omadhaun</h1>
 C based beacon that makes use of TLS. Should be simple enough to throw into... most places.
 
-TODO: Show all output
-      Formatting
-      Scheduling in
-      Option to hard code IP/Port into build process
-      Maybe do some obfuscation
-
+<p>TODO: Show all output Formatting<br>
+      Scheduling in<br>
+      Option to hard code IP/Port into build process<br>
+      Maybe do some obfuscation<br>
+</p>
 Usage: 
 
 ```gcc ./beacon.c beacon -lssl -lcrypto```
