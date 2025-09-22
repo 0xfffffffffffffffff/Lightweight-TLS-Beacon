@@ -1,6 +1,11 @@
 # Lightweight-TLS-Beacon
 C based beacon that makes use of TLS. Should be simple enough to throw into... most places.
 
+TODO: Show all output
+      Formatting
+      Scheduling in
+      Option to hard code IP/Port into build process
+      Maybe do some obfuscation
 
 Usage: 
 
